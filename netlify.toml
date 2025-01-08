@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/products"
+  to = "https://dummyjson.com/products"
+  status = 200
+  force = true
